@@ -1,0 +1,36 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: beige;
+    color: darkslategray;
+}
+
+.title {
+    font-size: 60px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.menu {
+    font-size: 20px;
+    text-align: left;
+    font-style: italic;
+}
+
+.pictures {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.description {
+    
+}
+
+.ingeredients {
+    
+}
+
+.method {
+    
+}
