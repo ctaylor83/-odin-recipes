@@ -10,10 +10,26 @@ body {
     font-weight: bold;
 }
 
-.menu {
+.spag {
+    display: block;
+    margin-left: auto;  
+    margin-right: auto;
+    width: 25%;
+}
+
+.home {
     font-size: 20px;
     text-align: left;
     font-style: italic;
+}
+
+.menu {
+    font-size: 40px;
+    font-style: italic;
+    text-align: center;
+    justify-content: center;
+    list-style-type: square;
+    letter-spacing: normal;
 }
 
 .pictures {
